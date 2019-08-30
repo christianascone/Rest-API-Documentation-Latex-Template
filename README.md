@@ -82,5 +82,5 @@ _*Christian Ascone*_
 
 ---
 
-Copyright © 2019 [Christian Ascone](https://github.com/christianascone).
+Copyright © 2019 [Christian Ascone](https://github.com/christianascone).\
 License [GPL-3.0](https://github.com/christianascone/Rest-API-Documentation-Latex-Template/blob/master/LICENSE).
