@@ -5,7 +5,7 @@
 
 > A LaTeX template for Rest API documentation
 
-![](header.png)
+![](header_readme.png)
 
 ---
 
@@ -53,6 +53,7 @@ Copy `main.tex`  and edit it with preferred tool.
 ### **:busts_in_silhouette: Credits**
 
 - [Jean-Philippe Eisenbarth](https://github.com/jpeisenbarth) (For his template: [SRS-IEEE](https://github.com/jpeisenbarth/SRS-Tex))
+- [Free Logo Design](https://freelogodesign.org) (For logo)
 
 ---
 
